@@ -1,0 +1,11 @@
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\bin\Debug\netcoreapp2.1\Console_Service_B.deps.json
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\bin\Debug\netcoreapp2.1\Console_Service_B.runtimeconfig.json
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\bin\Debug\netcoreapp2.1\Console_Service_B.runtimeconfig.dev.json
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\bin\Debug\netcoreapp2.1\Console_Service_B.dll
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\bin\Debug\netcoreapp2.1\Console_Service_B.pdb
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\obj\Debug\netcoreapp2.1\Console_Service_B.csprojAssemblyReference.cache
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\obj\Debug\netcoreapp2.1\Console_Service_B.csproj.CoreCompileInputs.cache
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\obj\Debug\netcoreapp2.1\Console_Service_B.AssemblyInfoInputs.cache
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\obj\Debug\netcoreapp2.1\Console_Service_B.AssemblyInfo.cs
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\obj\Debug\netcoreapp2.1\Console_Service_B.dll
+C:\Users\fmathebu\source\repos\My_Micro_Services\Console_Service_B\Console_Service_B\obj\Debug\netcoreapp2.1\Console_Service_B.pdb
